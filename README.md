@@ -58,18 +58,27 @@ $ sudo stop telegram # To stop it
 Contact me
 ------------
 sudo admin's (user/id):
+
 @mamootcode (167912005)
+
 @farsGeneral (157337513)
+
 @error_log (101865851)
+
 @napson (--------)
 
+
 thank admin's support General-Bot (user/id):
+
 @Black_hat_admin1 (--------)
+
 @black_hat_admin02 (67255537)
+
 @black_hat_admin03 (93213608)
 
 
 information channel General-Bot:
+
 @Blackhatchannel
 
 ID Bot : 
