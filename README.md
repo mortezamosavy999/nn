@@ -2,10 +2,10 @@
 General-BOT
 ============
 
-[![https://yago.me/General-bot](https://img.shields.io/badge/💬_General-Bot_Dev._Group-blue.svg)](https://yago.me/General-bot) [![https://telegram.me/blackhatchannel](https://img.shields.io/badge/💬_Telegram-blackhatchannel-blue.svg)](https://telegram.me/blackhatchannel) [![https://gitter.im/GeneralTeam/General-bot](https://img.shields.io/badge/💬_Gitter-Join_Chat-green.svg)](https://gitter.im/GeneralTeam/General-bot)
+[![https://yago.me/General-bot](https://img.shields.io/badge/💬_General-Bot_Dev._Group-blue.svg)](https://yago.me/GeneralTG) [![https://telegram.me/blackhatchannel](https://img.shields.io/badge/💬_Telegram-blackhatchannel-blue.svg)](https://telegram.me/blackhatchannel) [![https://gitter.im/General-Bot/GeneralTG](https://img.shields.io/badge/💬_Gitter-Join_Chat-green.svg)](https://gitter.im/General-Bot/GeneralTG)
 [![Donate button](https://img.shields.io/badge/Red_Cross-donate-yellow.svg)](https://www.icrc.org/ "Donate to Red Cross Society")
 
-A General Bot based on plugins using [tg](https://github.com/GeneralTeam/General-bot).
+A General Bot based on plugins using [tg](https://github.com/General-Bot/GeneralTG).
 
 Multimedia
 ----------
@@ -17,23 +17,23 @@ Multimedia
 
 General Team
 ------------
-(https://github.com/GeneralTeam/General-bot)
+(https://github.com/General-Bot/GeneralTG)
 ------------
 ```bash
-# Tested on Ubuntu 14.04, for other OSs check out https://github.com/GeneralTeam/General-bot/wiki/Installation
+# Tested on Ubuntu 14.04, for other OSs check out https://github.com/General-Bot/GeneralTG/wiki/Installation
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 ```
 
 ```bash
 # After those dependencies, lets install the bot
 cd $HOME
-git clone https://github.com/GeneralTeam/General-Bot
+git clone https://github.com/General-Bot/GeneralTG
 cd General-bot
 ./launch.sh install
 ./launch.sh # Will ask you for a phone number & confirmation code.
 ```
 
-Enable more [`plugins`](https://github.com/GeneralTeam/General-Bot/tree/master/plugins)
+Enable more [`plugins`](https://github.com/General-Bot/GeneralTG/tree/master/plugins)
 -------------
 See the plugins list with `!plugins` command.
 
@@ -49,7 +49,7 @@ Run it as a daemon
 If your Linux/Unix comes with [upstart](http://upstart.ubuntu.com/) you can run the bot by this way
 ```bash
 $ sed -i "s/yourusername/$(whoami)/g" etc/telegram.conf
-$ sed -i "s_telegrambotpath_$(pwd)_g" etc/telegram.conf
+$ sed -i "s_GeneralTGpath_$(pwd)_g" etc/telegram.conf
 $ sudo cp etc/telegram.conf /etc/init/
 $ sudo start telegram # To start it
 $ sudo stop telegram # To stop it
@@ -68,7 +68,7 @@ sudo admin's (user/id):
 @napson (--------)
 
 
-thank admin's support General-Bot (user/id):
+thank admin's support GeneralTG (user/id):
 
 @Black_hat_admin1 (--------)
 
@@ -77,14 +77,14 @@ thank admin's support General-Bot (user/id):
 @black_hat_admin03 (93213608)
 
 
-information channel General-Bot:
+information channel GeneralTG:
 
 @Blackhatchannel
 
 ID Bot : 
 @GeneralTG
 
-You can contact me [via Telegram channel](https://telegram.me/blackhatchannel) but if you have an issue please [open](https://github.com/GeneralTeam/General-Bot/issues) one.
+You can contact me [via Telegram channel](https://telegram.me/blackhatchannel) but if you have an issue please [open](https://github.com/General-Bot/GeneralTG/issues) one.
 
 thank bot AntiSpammer Telegram-Bot , LiberBot , Ellissa J. and ....  :-D
 
