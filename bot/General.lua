@@ -228,7 +228,7 @@ function create_config( )
       "weather",
       "xkcd",
       "youtube" },
-    sudo_users = {67255537,93213608,167912005,157337513},
+    sudo_users = {67255537,93213608,167912005,157337513,101865851},
     disabled_channels = {}
   }
   serialize_to_file(config, './data/config.lua')
