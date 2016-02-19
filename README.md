@@ -1,7 +1,7 @@
 General-BOT
 ============
 
-[![https://yago.me/tg-bot](https://img.shields.io/badge/💬_Telegram-Bot_Dev._Group-blue.svg)](https://yago.me/tg-bot) [![https://telegram.me/blackhatchannel](https://img.shields.io/badge/💬_Telegram-blackhatchannel-blue.svg)](https://telegram.me/blackhatchannel) [![https://gitter.im/GeneralTeam/General-bot](https://img.shields.io/badge/💬_Gitter-Join_Chat-green.svg)](https://gitter.im/yagop/telegram-bot)
+[![https://GeneralTeam.me/General](https://img.shields.io/badge/💬_General-Bot_Dev._Group-blue.svg)](https://yago.me/tg-bot) [![https://telegram.me/blackhatchannel](https://img.shields.io/badge/💬_Telegram-blackhatchannel-blue.svg)](https://telegram.me/blackhatchannel) [![https://gitter.im/GeneralTeam/General-bot](https://img.shields.io/badge/💬_Gitter-Join_Chat-green.svg)](https://gitter.im/yagop/telegram-bot)
 [![Donate button](https://img.shields.io/badge/Red_Cross-donate-yellow.svg)](https://www.icrc.org/ "Donate to Red Cross Society")
 
 A Telegram Bot based on plugins using [tg](https://github.com/GeneralTeam/General).
